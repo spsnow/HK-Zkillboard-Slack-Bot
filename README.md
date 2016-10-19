@@ -1,0 +1,2 @@
+# SnowBot
+Slack bot
