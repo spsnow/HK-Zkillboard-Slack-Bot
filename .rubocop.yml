@@ -1,0 +1,14 @@
+Metrics/AbcSize:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 160
+
+Metrics/MethodLength:
+  Max: 100
+
+AllCops:
+  Include:
+    - 'bin/run_worker.rb'
+  Exclude:
+    - 'bin/*'
